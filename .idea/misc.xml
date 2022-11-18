@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/gturcheti/apps/WSCars/app/src/main/res/drawable/ic_car.xml" value="0.3335" />
+        <entry key="..\:/AndroidStudioProjects/gturcheti/apps/WSCars/app/src/main/res/drawable/ic_color.xml" value="0.163" />
+        <entry key="..\:/AndroidStudioProjects/gturcheti/apps/WSCars/app/src/main/res/drawable/ic_door.xml" value="0.163" />
+        <entry key="..\:/AndroidStudioProjects/gturcheti/apps/WSCars/app/src/main/res/drawable/ic_fuel.xml" value="0.163" />
+        <entry key="..\:/AndroidStudioProjects/gturcheti/apps/WSCars/app/src/main/res/drawable/shape_rectangle.xml" value="0.213" />
+        <entry key="..\:/AndroidStudioProjects/gturcheti/apps/WSCars/app/src/main/res/drawable/sv_background.xml" value="0.276" />
+        <entry key="..\:/AndroidStudioProjects/gturcheti/apps/WSCars/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/gturcheti/apps/WSCars/app/src/main/res/layout/formulario_lead.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/gturcheti/apps/WSCars/app/src/main/res/layout/fragment_cars_list.xml" value="0.38369441277080957" />
+        <entry key="..\:/AndroidStudioProjects/gturcheti/apps/WSCars/app/src/main/res/layout/fragment_home.xml" value="0.16973065412569474" />
+        <entry key="..\:/AndroidStudioProjects/gturcheti/apps/WSCars/app/src/main/res/layout/item_cars.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

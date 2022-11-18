@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WS Cars</string>
+    <string name="greeting">Bem-vindo,</string>
+    <string name="home_guide">consulte o nosso estoque:</string>
+    <string name="cars_search_query">Procurar veículo...</string>
+    <string name="cars_list_request_error">Um erro ocorreu ao buscar a lista de veículos, recarregue o aplicativo!</string>
+    <string name="car_item_button">EU QUERO!</string>
+    <string name="user_name_label">Nome completo</string>
+    <string name="user_phone_label">Telefone</string>
+    <string name="user_email_label">E-mail</string>
+    <string name="user_form_guide">Agora, informe ao vendedor o seus dados e aguarde contato!</string>
+    <string name="user_form_button">Enviar dados</string>
+    <string name="user_email_error">Informe um e-mail válido</string>
+    <string name="cars_list_request_empty">Veículo não encontrado!</string>
+</resources>
